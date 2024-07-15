@@ -1,10 +1,11 @@
-<h1 align="center">
-  <br
 
-  <img src="https://i.imgur.com/vRnS56L.png" alt="Quiz Buddy" width="200">
-  <br>
+<div align="center">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.imgur.com/vRnS56L.png" width=200>
+</div>
+  
+
+<h1 align="center">
   Quiz Buddy
-  <br>
 </h1>
 
 <h4 align="center">Turn your uploaded files into instant quizzes, launch them instantly, obtain instant performance feedback, and seamlessly share the quizzes with others</h4>
