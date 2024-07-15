@@ -1,0 +1,2396 @@
+[
+    {
+        "subject": "Animals",
+        "quiz": "Wildlife Wonders",
+        "duration": "30",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "What is the largest land animal?",
+                "answers": [
+                    {
+                        "title": "Elephant",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Lion",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Giraffe",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hippopotamus",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which animal is known as the 'King of the Jungle'?",
+                "answers": [
+                    {
+                        "title": "Lion",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Tiger",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Elephant",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Leopard",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the fastest land animal?",
+                "answers": [
+                    {
+                        "title": "Cheetah",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Leopard",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Lion",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Horse",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which bird is known for its impressive colorful feathers?",
+                "answers": [
+                    {
+                        "title": "Peacock",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Swan",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Flamingo",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Parrot",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the largest species of shark?",
+                "answers": [
+                    {
+                        "title": "Whale Shark",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Great White Shark",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Tiger Shark",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hammerhead Shark",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Nature",
+        "quiz": "Nature's Marvels",
+        "duration": "25",
+        "successPercentage": "65",
+        "questions": [
+            {
+                "title": "What is the tallest type of tree?",
+                "answers": [
+                    {
+                        "title": "Redwood",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Oak",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Pine",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Birch",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which is the largest ocean on Earth?",
+                "answers": [
+                    {
+                        "title": "Pacific Ocean",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Atlantic Ocean",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Indian Ocean",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Arctic Ocean",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What phenomenon causes the sky to appear blue?",
+                "answers": [
+                    {
+                        "title": "Rayleigh scattering",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Diffraction",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Reflection",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Refraction",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which of the following is a non-renewable resource?",
+                "answers": [
+                    {
+                        "title": "Coal",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Solar energy",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Wind energy",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hydropower",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which country has the most natural lakes?",
+                "answers": [
+                    {
+                        "title": "Canada",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Brazil",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "United States",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Russia",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Geography",
+        "quiz": "World Geography",
+        "duration": "40",
+        "successPercentage": "75",
+        "questions": [
+            {
+                "title": "What is the capital of France?",
+                "answers": [
+                    {
+                        "title": "Paris",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "London",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Rome",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Berlin",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which continent is the Sahara Desert located on?",
+                "answers": [
+                    {
+                        "title": "Africa",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Asia",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Australia",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "South America",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which country has the largest population?",
+                "answers": [
+                    {
+                        "title": "China",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "India",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "United States",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Indonesia",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What river runs through Egypt?",
+                "answers": [
+                    {
+                        "title": "Nile",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Amazon",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Mississippi",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Yangtze",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which is the smallest country in the world by land area?",
+                "answers": [
+                    {
+                        "title": "Vatican City",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Monaco",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "San Marino",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Liechtenstein",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Science",
+        "quiz": "Basic Science Knowledge",
+        "duration": "35",
+        "successPercentage": "80",
+        "questions": [
+            {
+                "title": "What planet is known as the Red Planet?",
+                "answers": [
+                    {
+                        "title": "Mars",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Jupiter",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Venus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Saturn",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the chemical symbol for water?",
+                "answers": [
+                    {
+                        "title": "H2O",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "O2",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "CO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "HO2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which gas do plants absorb from the atmosphere?",
+                "answers": [
+                    {
+                        "title": "Carbon Dioxide",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Oxygen",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Nitrogen",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hydrogen",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the speed of light?",
+                "answers": [
+                    {
+                        "title": "299,792,458 meters per second",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "150,000,000 meters per second",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "300,000,000 meters per second",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "299,792 meters per second",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who developed the theory of relativity?",
+                "answers": [
+                    {
+                        "title": "Albert Einstein",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Isaac Newton",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Galileo Galilei",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Nikola Tesla",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "History",
+        "quiz": "Ancient Civilizations",
+        "duration": "30",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "Which ancient civilization built the Pyramids?",
+                "answers": [
+                    {
+                        "title": "Egyptians",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Romans",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Greeks",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Mesopotamians",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who was the first emperor of China?",
+                "answers": [
+                    {
+                        "title": "Qin Shi Huang",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Confucius",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Sun Tzu",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Laozi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which city was known as Byzantium?",
+                "answers": [
+                    {
+                        "title": "Constantinople",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Athens",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Rome",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Alexandria",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who was the King of Macedonia who created a vast empire in the 4th century BC?",
+                "answers": [
+                    {
+                        "title": "Alexander the Great",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Philip II",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Darius the Great",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Cyrus the Great",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What was the main language of the Roman Empire?",
+                "answers": [
+                    {
+                        "title": "Latin",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Greek",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hebrew",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Aramaic",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What was the name of the first human civilization?",
+                "answers": [
+                    {
+                        "title": "Sumerians",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Egyptians",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Babylonians",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Assyrians",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Technology",
+        "quiz": "Tech Innovations",
+        "duration": "20",
+        "successPercentage": "75",
+        "questions": [
+            {
+                "title": "Who is known as the father of computers?",
+                "answers": [
+                    {
+                        "title": "Charles Babbage",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Alan Turing",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "John von Neumann",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Steve Jobs",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What does HTTP stand for?",
+                "answers": [
+                    {
+                        "title": "HyperText Transfer Protocol",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "HyperText Transmission Protocol",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hyperlink Transfer Protocol",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hyperlink Transmission Protocol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which company created the iPhone?",
+                "answers": [
+                    {
+                        "title": "Apple",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Samsung",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Google",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Microsoft",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who founded Microsoft?",
+                "answers": [
+                    {
+                        "title": "Bill Gates",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Steve Jobs",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Larry Page",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Elon Musk",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What was the first programmable computer?",
+                "answers": [
+                    {
+                        "title": "ENIAC",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "UNIVAC",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "IBM 701",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Altair 8800",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Literature",
+        "quiz": "Classic Literature",
+        "duration": "25",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "Who wrote 'Pride and Prejudice'?",
+                "answers": [
+                    {
+                        "title": "Jane Austen",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Charlotte Brontë",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Emily Brontë",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Mary Shelley",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which Shakespeare play features the characters of Rosencrantz and Guildenstern?",
+                "answers": [
+                    {
+                        "title": "Hamlet",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Macbeth",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Othello",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "King Lear",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the first book of the 'A Song of Ice and Fire' series by George R.R. Martin?",
+                "answers": [
+                    {
+                        "title": "A Game of Thrones",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "A Clash of Kings",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "A Storm of Swords",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "A Feast for Crows",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who is the author of '1984'?",
+                "answers": [
+                    {
+                        "title": "George Orwell",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Aldous Huxley",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Ray Bradbury",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "H.G. Wells",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which novel begins with the line 'Call me Ishmael'?",
+                "answers": [
+                    {
+                        "title": "Moby Dick",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "The Great Gatsby",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "To Kill a Mockingbird",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "1984",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Math",
+        "quiz": "Fundamentals of Mathematics",
+        "duration": "30",
+        "successPercentage": "80",
+        "questions": [
+            {
+                "title": "What is the value of pi (π) to two decimal places?",
+                "answers": [
+                    {
+                        "title": "3.14",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "3.15",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "3.13",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "3.16",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the square root of 64?",
+                "answers": [
+                    {
+                        "title": "8",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "6",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "7",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "9",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the result of 7 x 8?",
+                "answers": [
+                    {
+                        "title": "56",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "54",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "58",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "60",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the value of 2^5?",
+                "answers": [
+                    {
+                        "title": "32",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "16",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "25",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "64",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the formula for the area of a circle?",
+                "answers": [
+                    {
+                        "title": "πr²",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "2πr",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "πd",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "r²/2",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Sports",
+        "quiz": "Olympic Games",
+        "duration": "20",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "In which year were the first modern Olympic Games held?",
+                "answers": [
+                    {
+                        "title": "1896",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "1900",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "1888",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "1904",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which country has won the most Olympic medals?",
+                "answers": [
+                    {
+                        "title": "United States",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "China",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Russia",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Germany",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which city hosted the 2016 Summer Olympics?",
+                "answers": [
+                    {
+                        "title": "Rio de Janeiro",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "London",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Tokyo",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Beijing",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the official motto of the Olympic Games?",
+                "answers": [
+                    {
+                        "title": "Citius, Altius, Fortius",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Faster, Higher, Stronger",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Excellence in Sport",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Together for a Better World",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who is the most decorated Olympian of all time?",
+                "answers": [
+                    {
+                        "title": "Michael Phelps",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Usain Bolt",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Larisa Latynina",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Carl Lewis",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Biology",
+        "quiz": "Human Anatomy",
+        "duration": "25",
+        "successPercentage": "75",
+        "questions": [
+            {
+                "title": "What is the largest organ in the human body?",
+                "answers": [
+                    {
+                        "title": "Skin",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Liver",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Heart",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Lung",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "How many bones are in the adult human body?",
+                "answers": [
+                    {
+                        "title": "206",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "201",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "210",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "215",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What type of blood cells are responsible for fighting infections?",
+                "answers": [
+                    {
+                        "title": "White blood cells",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Red blood cells",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Platelets",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Plasma",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which organ is responsible for pumping blood throughout the body?",
+                "answers": [
+                    {
+                        "title": "Heart",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Brain",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Lung",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Kidney",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Where is the smallest bone in the human body located?",
+                "answers": [
+                    {
+                        "title": "Ear",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Finger",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Nose",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Toe",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Chemistry",
+        "quiz": "Periodic Table",
+        "duration": "20",
+        "successPercentage": "80",
+        "questions": [
+            {
+                "title": "What is the chemical symbol for gold?",
+                "answers": [
+                    {
+                        "title": "Au",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Ag",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Pb",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Fe",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the atomic number of carbon?",
+                "answers": [
+                    {
+                        "title": "6",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "12",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "14",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "8",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which element has the highest atomic number?",
+                "answers": [
+                    {
+                        "title": "Oganesson",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Uranium",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Plutonium",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Einsteinium",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which element is a noble gas?",
+                "answers": [
+                    {
+                        "title": "Neon",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Oxygen",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Nitrogen",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Fluorine",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the most abundant element in the Earth's crust?",
+                "answers": [
+                    {
+                        "title": "Oxygen",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Silicon",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Aluminum",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Iron",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Geography",
+        "quiz": "World Capitals",
+        "duration": "25",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "What is the capital of France?",
+                "answers": [
+                    {
+                        "title": "Paris",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Berlin",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Madrid",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Rome",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the capital of Australia?",
+                "answers": [
+                    {
+                        "title": "Canberra",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Sydney",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Melbourne",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Brisbane",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the capital of Japan?",
+                "answers": [
+                    {
+                        "title": "Tokyo",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Osaka",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Kyoto",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hiroshima",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the capital of Canada?",
+                "answers": [
+                    {
+                        "title": "Ottawa",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Toronto",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Vancouver",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Montreal",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the capital of Brazil?",
+                "answers": [
+                    {
+                        "title": "Brasilia",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Rio de Janeiro",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "São Paulo",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Salvador",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Physics",
+        "quiz": "Laws of Motion",
+        "duration": "30",
+        "successPercentage": "75",
+        "questions": [
+            {
+                "title": "Who formulated the three laws of motion?",
+                "answers": [
+                    {
+                        "title": "Isaac Newton",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Albert Einstein",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Galileo Galilei",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Niels Bohr",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What does Newton's first law of motion state?",
+                "answers": [
+                    {
+                        "title": "An object in motion stays in motion unless acted upon by an external force.",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "For every action, there is an equal and opposite reaction.",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Force equals mass times acceleration.",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Energy cannot be created or destroyed.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "According to Newton's second law of motion, what is the formula for force?",
+                "answers": [
+                    {
+                        "title": "F = ma",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "F = mv",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "F = mgh",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "F = mc^2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What does Newton's third law of motion state?",
+                "answers": [
+                    {
+                        "title": "For every action, there is an equal and opposite reaction.",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "An object in motion stays in motion unless acted upon by an external force.",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Force equals mass times acceleration.",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Energy cannot be created or destroyed.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the unit of force in the International System of Units (SI)?",
+                "answers": [
+                    {
+                        "title": "Newton",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Joule",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Watt",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Pascal",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Music",
+        "quiz": "Music Theory",
+        "duration": "20",
+        "successPercentage": "75",
+        "questions": [
+            {
+                "title": "What are the five lines and four spaces on which music is written called?",
+                "answers": [
+                    {
+                        "title": "Staff",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Clef",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Bar",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Note",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What symbol indicates the pitch of written notes?",
+                "answers": [
+                    {
+                        "title": "Clef",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Note",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Staff",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Bar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the term for the speed of the beat in a piece of music?",
+                "answers": [
+                    {
+                        "title": "Tempo",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Dynamics",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Pitch",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Rhythm",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which term refers to the loudness or softness of music?",
+                "answers": [
+                    {
+                        "title": "Dynamics",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Tempo",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Pitch",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Rhythm",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is a group of sharps or flats at the beginning of a piece of music called?",
+                "answers": [
+                    {
+                        "title": "Key signature",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Time signature",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Clef",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Bar line",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Astronomy",
+        "quiz": "Solar System",
+        "duration": "20",
+        "successPercentage": "80",
+        "questions": [
+            {
+                "title": "Which planet is known as the Red Planet?",
+                "answers": [
+                    {
+                        "title": "Mars",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Venus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Jupiter",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Saturn",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which planet is the largest in our solar system?",
+                "answers": [
+                    {
+                        "title": "Jupiter",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Saturn",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Uranus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Neptune",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the name of the second largest planet in our solar system?",
+                "answers": [
+                    {
+                        "title": "Saturn",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Jupiter",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Uranus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Neptune",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which planet is closest to the Sun?",
+                "answers": [
+                    {
+                        "title": "Mercury",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Venus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Earth",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Mars",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which planet is known for its rings?",
+                "answers": [
+                    {
+                        "title": "Saturn",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Jupiter",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Uranus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Neptune",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Art",
+        "quiz": "Renaissance Art",
+        "duration": "20",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "Who painted the Mona Lisa?",
+                "answers": [
+                    {
+                        "title": "Leonardo da Vinci",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Michelangelo",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Raphael",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Titian",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the name of the ceiling painted by Michelangelo?",
+                "answers": [
+                    {
+                        "title": "Sistine Chapel",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "The Last Supper",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "The Birth of Venus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "The School of Athens",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who sculpted the statue of David?",
+                "answers": [
+                    {
+                        "title": "Michelangelo",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Donatello",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Bernini",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Ghiberti",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which artist is known for the painting 'The Birth of Venus'?",
+                "answers": [
+                    {
+                        "title": "Sandro Botticelli",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Titian",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Leonardo da Vinci",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Raphael",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which city is known as the birthplace of the Renaissance?",
+                "answers": [
+                    {
+                        "title": "Florence",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Rome",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Venice",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Milan",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Economics",
+        "quiz": "Basic Economic Concepts",
+        "duration": "25",
+        "successPercentage": "75",
+        "questions": [
+            {
+                "title": "What is the term for the cost of the next best alternative use of resources?",
+                "answers": [
+                    {
+                        "title": "Opportunity cost",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Marginal cost",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Fixed cost",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Variable cost",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the term for a market structure with a single seller and no close substitutes?",
+                "answers": [
+                    {
+                        "title": "Monopoly",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Oligopoly",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Perfect competition",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Monopolistic competition",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the measure of the responsiveness of the quantity demanded of a good to a change in its price?",
+                "answers": [
+                    {
+                        "title": "Price elasticity of demand",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Income elasticity of demand",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Cross elasticity of demand",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Supply elasticity",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the term for goods that are used together?",
+                "answers": [
+                    {
+                        "title": "Complementary goods",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Substitute goods",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Inferior goods",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Normal goods",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the economic term for a situation where the supply of goods matches demand?",
+                "answers": [
+                    {
+                        "title": "Market equilibrium",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Market surplus",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Market shortage",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Market saturation",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "History",
+        "quiz": "World War II",
+        "duration": "30",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "What event started World War II?",
+                "answers": [
+                    {
+                        "title": "Germany's invasion of Poland",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Attack on Pearl Harbor",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "D-Day invasion",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "The Blitz",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who was the Prime Minister of the United Kingdom during most of World War II?",
+                "answers": [
+                    {
+                        "title": "Winston Churchill",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Neville Chamberlain",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Clement Attlee",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Harold Macmillan",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which country was led by Adolf Hitler during World War II?",
+                "answers": [
+                    {
+                        "title": "Germany",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Italy",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Japan",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Soviet Union",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What was the largest and deadliest battle of World War II?",
+                "answers": [
+                    {
+                        "title": "Battle of Stalingrad",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Battle of Midway",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Battle of the Bulge",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Battle of El Alamein",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which conference outlined the terms for the end of World War II?",
+                "answers": [
+                    {
+                        "title": "Yalta Conference",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Potsdam Conference",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Tehran Conference",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Munich Conference",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Mathematics",
+        "quiz": "Algebra Basics",
+        "duration": "20",
+        "successPercentage": "80",
+        "questions": [
+            {
+                "title": "What is the value of x if 2x + 5 = 11?",
+                "answers": [
+                    {
+                        "title": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "1",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Solve for y: y/3 = 7.",
+                "answers": [
+                    {
+                        "title": "21",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "14",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "7",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the value of x in the equation 3x - 2 = 4x + 1?",
+                "answers": [
+                    {
+                        "title": "-3",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "-1",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the value of y in the equation 4y + 8 = 0?",
+                "answers": [
+                    {
+                        "title": "-2",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "0",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "-4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Solve for x: 5x = 3x + 10.",
+                "answers": [
+                    {
+                        "title": "5",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "1",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Literature",
+        "quiz": "Shakespearean Plays",
+        "duration": "25",
+        "successPercentage": "70",
+        "questions": [
+            {
+                "title": "Which play features the characters of Oberon and Titania?",
+                "answers": [
+                    {
+                        "title": "A Midsummer Night's Dream",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Hamlet",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Macbeth",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "The Tempest",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which play is set in the city of Verona?",
+                "answers": [
+                    {
+                        "title": "Romeo and Juliet",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Othello",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "King Lear",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Julius Caesar",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Who is the tragic hero of the play 'Othello'?",
+                "answers": [
+                    {
+                        "title": "Othello",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Iago",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Desdemona",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Cassio",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "In which play does the character of Prospero appear?",
+                "answers": [
+                    {
+                        "title": "The Tempest",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Hamlet",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Macbeth",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "A Midsummer Night's Dream",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which Shakespearean play includes the line 'To be, or not to be'?",
+                "answers": [
+                    {
+                        "title": "Hamlet",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Macbeth",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Othello",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "King Lear",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subject": "Environmental Science",
+        "quiz": "Climate Change",
+        "duration": "25",
+        "successPercentage": "80",
+        "questions": [
+            {
+                "title": "What is the main greenhouse gas responsible for global warming?",
+                "answers": [
+                    {
+                        "title": "Carbon dioxide (CO2)",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Methane (CH4)",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Nitrous oxide (N2O)",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Water vapor",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the term for the long-term changes in temperature, precipitation, and other atmospheric conditions on Earth?",
+                "answers": [
+                    {
+                        "title": "Climate change",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Weather change",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Global cooling",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Seasonal variation",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which international agreement aims to limit global warming to below 2 degrees Celsius?",
+                "answers": [
+                    {
+                        "title": "Paris Agreement",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Kyoto Protocol",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Montreal Protocol",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Copenhagen Accord",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "What is the term for the phenomenon where trapped heat in the atmosphere leads to the warming of the planet?",
+                "answers": [
+                    {
+                        "title": "Greenhouse effect",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Ozone depletion",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Heat island effect",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Thermal inversion",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "title": "Which renewable energy source uses the power of the sun?",
+                "answers": [
+                    {
+                        "title": "Solar energy",
+                        "isCorrect": true
+                    },
+                    {
+                        "title": "Wind energy",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Hydroelectric energy",
+                        "isCorrect": false
+                    },
+                    {
+                        "title": "Geothermal energy",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
