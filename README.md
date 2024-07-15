@@ -1,6 +1,7 @@
 <h1 align="center">
-  <br>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91668821/348588977-7a07533b-6442-4ee9-98d7-ad49373b581d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240715T024648Z&X-Amz-Expires=300&X-Amz-Signature=724517c460a5f54c2a071c945d5636d435c5912232d24b0113e072e64fe329b5&X-Amz-SignedHeaders=host&actor_id=91668821&key_id=0&repo_id=827786838  " alt="Quiz Buddy" width="200">
+  <br
+
+  <img src="https://i.imgur.com/hsNjtLP.gif" alt="Quiz Buddy" width="200">
   <br>
   Quiz Buddy
   <br>
