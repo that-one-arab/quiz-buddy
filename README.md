@@ -8,7 +8,7 @@
   Quiz Buddy
 </h1>
 
-<h4 align="center">Turn your uploaded files into instant quizzes, launch them instantly, obtain instant performance feedback, and seamlessly share the quizzes with others</h4>
+<h4 align="center">Turn your uploaded files into quizzes, launch them instantly, obtain performance feedback, and seamlessly share the quizzes with others</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
