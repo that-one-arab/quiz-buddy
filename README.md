@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.imgur.com/vRnS56L.png" width=200>
+  <img alt="Quiz Buddy Logo" src="https://i.imgur.com/vRnS56L.png" width=200>
 </div>
   
 
