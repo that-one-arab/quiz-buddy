@@ -1,5 +1,6 @@
 <h1 align="center">
   <br
+![quiz-buddy-demo](https://github.com/user-attachments/assets/050cf022-0d12-4bc5-83a9-193996a35e08)
 
   <img src="https://i.imgur.com/hsNjtLP.gif" alt="Quiz Buddy" width="200">
   <br>
