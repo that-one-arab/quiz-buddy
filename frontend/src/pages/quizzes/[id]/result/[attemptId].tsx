@@ -48,9 +48,9 @@ const ResultsPage = ({ data }: Props) => {
 
   const percentage = ((score / quizResult.questions.length) * 100).toFixed(2);
 
-  const handleBackToHomeClick = () => {
+  const handleBackToQuizzesClick = () => {
     if (quizResult.isShared) {
-      router.push("/");
+      router.push("/quizzes");
       return;
     }
 
@@ -160,9 +160,9 @@ const ResultsPage = ({ data }: Props) => {
             textTransform: "none",
             fontSize: "1rem",
           }}
-          onClick={() => handleBackToHomeClick()}
+          onClick={() => handleBackToQuizzesClick()}
         >
-          {t("common:backToHome")}
+          {t("common:backToQuizPool")}
         </MUIButton>
       </Box>
       <ShareQuizDialog
