@@ -482,7 +482,7 @@ const CreateExam: NextPage = () => {
           setOpenCreateQuizProgressDialog(false);
 
           // User material is too short for the number of questions requested
-          if (value.details.response_code === "too-short") {
+          if (value.details.response_code === "too-short" || !value.quiz_id) {
             setMessageDialog({
               open: true,
               title: t("common:materialTooShort"),
