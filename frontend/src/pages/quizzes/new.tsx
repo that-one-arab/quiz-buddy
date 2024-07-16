@@ -413,7 +413,7 @@ const CreateExam: NextPage = () => {
                 <input
                   type="file"
                   multiple
-                  accept=".pdf,.md,.txt"
+                  accept=".pdf,.md,.txt,.doc,.docx"
                   className="block w-full text-lg text-gray-500
                 mt-2
               file:mr-4 file:py-3 file:px-6
