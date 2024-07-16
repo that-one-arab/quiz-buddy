@@ -77,6 +77,7 @@
     "missingGptApiKey": "OpenAI API anahtarı eksik",
     "missingGptApiKeySubtitle": "OpenAI API anahtarı olmadan sınav oluşturulamaz. Lütfen bir API anahtarı ayarlayın",
     "serverError": "Sunucu Hatası",
+    "serverErrorSubtitle": "Sunucuda bir hata oluştu. Lütfen daha sonra tekrar deneyin",
     "backToQuizPool": "Sınav Kütüphanesine Geri Dön",
     "loadMore": "Daha Fazla Yükle",
     "shareYourQuiz": "Sınavınızı paylaşın",

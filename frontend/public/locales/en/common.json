@@ -77,6 +77,7 @@
     "missingGptApiKey": "Missing OpenAI API key",
     "missingGptApiKeySubtitle": "Cannot generate quiz without a OpenAI API key. Please set an API key",
     "serverError": "Server Error",
+    "serverErrorSubtitle": "There was an error with the server. Please try again later",
     "backToQuizPool": "Back to Quiz Library",
     "loadMore": "Load More",
     "shareYourQuiz": "Share your quiz",
