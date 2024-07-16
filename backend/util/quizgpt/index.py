@@ -101,7 +101,9 @@ class QuizGPT:
         # Starting from the middle page (no particular reason for starting from there), loop
         # through the pages to detect the language
         while True:
-            current_page = find_middle_index(current_page)
+            ### Issue with some materials where the language detection is not working, starting from the first page.
+            # current_page = find_middle_index(current_page)
+            current_page = 0 if current_page is None else current_page + 1
 
             # If we've reached the end of the pages, it means we couldn't detect the language
             if current_page >= total_pages:

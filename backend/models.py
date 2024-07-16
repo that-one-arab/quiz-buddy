@@ -34,7 +34,7 @@ class Quiz(db.Model):
     questions = relationship("Question", backref="quiz", cascade="all, delete-orphan")
     user_ip = db.Column(db.String(255), nullable=False)
     is_shared = db.Column(db.Boolean, default=False)
-    language = db.Column(db.String(2), nullable=False)
+    language = db.Column(db.String(7), nullable=False)
     is_quiz_buddy_original = db.Column(db.Boolean, default=False)
 
 

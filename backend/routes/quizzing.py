@@ -245,12 +245,13 @@ def get_quiz(quiz_id):
 
     user_ip = request.headers.get("X-Forwarded-For", request.remote_addr)
 
-    if not quiz.is_shared:
-        if quiz.user_ip != user_ip:
-            return (
-                jsonify({"error": "You do not have permission to view this quiz"}),
-                403,
-            )
+    # Experimental feature: Only allow creator to view private quizzes. Disable for now.
+    # if not quiz.is_shared:
+    #     if quiz.user_ip != user_ip:
+    #         return (
+    #             jsonify({"error": "You do not have permission to view this quiz"}),
+    #             403,
+    #         )
 
     return jsonify(
         {
@@ -433,9 +434,9 @@ def share_quiz(quiz_id):
 
     user_ip = request.headers.get("X-Forwarded-For", request.remote_addr)
 
-    # Since we don't have user authentication, we'll use the user's IP address to verify ownership.
-    if quiz.user_ip != user_ip:
-        return jsonify({"error": "You do not have permission to share this quiz"}), 403
+    # Experimental feature: Only allow creator to share private quizzes. Disable for now.
+    # if quiz.user_ip != user_ip:
+    #     return jsonify({"error": "You do not have permission to share this quiz"}), 403
 
     if quiz.is_shared == True:
         return jsonify({"error": "Quiz is already shared"}), 400
