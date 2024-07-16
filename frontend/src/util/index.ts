@@ -1,7 +1,7 @@
-import Cookies from "universal-cookie";
+const API_URL = process.env.NEXT_PUBLIC_API_URL || process.env.PUBLIC_API_URL;
 
-export const PUBLIC_API_URL = process.env.NEXT_PUBLIC_API_URL
-  ? `${process.env.NEXT_PUBLIC_API_URL}/api`
+export const PUBLIC_API_URL = API_URL
+  ? `${API_URL}/api`
   : "http://localhost:5000/api";
 
 export function customFetch(
@@ -9,8 +9,6 @@ export function customFetch(
   options: RequestInit = {},
   ignoreContentType = false
 ) {
-  const cookies = new Cookies();
-
   const headers = {
     ...(!ignoreContentType && {
       "Content-Type": "application/json",
