@@ -36,6 +36,8 @@
 - **Internationalization (i18n) Support:** Enjoy a fully localized experience.
 - **Mobile Responsive:** Access and use the platform effortlessly on any mobile device.
 
+[![Watch the video](https://img.youtube.com/vi/Cq-yP8ZElEc/maxresdefault.jpg)](https://youtu.be/Cq-yP8ZElEc)
+
 ## How To Use
 
 Explore a hosted demo of our platform [here](https://www.quiz-buddy.xyz).
