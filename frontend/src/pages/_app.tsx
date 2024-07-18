@@ -9,17 +9,22 @@ import Confetti from "@/components/Confetti";
 import { useIsFirstLogin } from "@/util/hooks";
 import { useEffect, useState } from "react";
 import useSettingsStore from "@/util/store/settings";
+import Error from "next/error";
 
 function App({ Component, pageProps }: AppProps) {
   const { isFirstLogin, setIsFirstLogin } = useIsFirstLogin();
   const { gptApiKey, setGptApiKey } = useSettingsStore();
 
   const isApiKeySet = !gptApiKey.loading && gptApiKey.value;
-
   const [welcomeDialogOpen, setWelcomeDialogOpen] = useState(false);
+
   useEffect(() => {
-    if (isFirstLogin || !isApiKeySet) setWelcomeDialogOpen(true);
-  }, [isFirstLogin, isApiKeySet]);
+    // check if the current page is not a 404 error page
+    const isNotFoundPage = Component === Error && pageProps.statusCode === 404;
+    if ((isFirstLogin || !isApiKeySet) && !isNotFoundPage) {
+      setWelcomeDialogOpen(true);
+    }
+  }, [isFirstLogin, isApiKeySet, Component, pageProps.statusCode]);
 
   return (
     <ThemeProvider theme={theme}>
