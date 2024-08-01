@@ -40,8 +40,6 @@
 
 ## How To Use
 
-Explore a hosted demo of our platform [here](https://www.quiz-buddy.xyz).
-
 For self-hosting, please refer to the README files in both the **frontend** and **backend** directories for detailed installation instructions.
 
 ## Support
